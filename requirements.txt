@@ -1,0 +1,6 @@
+ultralytic
+opencv-python
+gpiozero
+adafruit-circuitpython-servokit
+setup_pi.sh
+libgl1
