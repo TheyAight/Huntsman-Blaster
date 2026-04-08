@@ -32,7 +32,7 @@ An automated, AI-powered turret that uses YOLOv11 for real-time target tracking 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/auto-foam-blaster.git
+git clone https://github.com/YOUR_USERNAME/Huntsman-Blaster.git
 cd auto-foam-blaster
 ```
 
