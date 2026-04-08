@@ -1,0 +1,2 @@
+The clip mania blaster from X shot has a motorized firing mechanism but the trigger must be pulled manually. This is obvoiusly not ideal for my project. So to fix that i created two 3D files. 'slide_gear.stl' and 'slide_rack.stl'
+they work by a rack and pinion system. It pushes the slide forward, sending the dart into the motors and then stock spring at the back pulls the slide back into its original position.
