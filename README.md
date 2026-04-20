@@ -18,3 +18,5 @@ Right now, it’s focused on the core "track and fire" loop, but I’m just gett
 - I had fun when everything worked according to plan. So like only .137% of the time. No but seriously this was a awesome project that helped me learn more about the hardware side of tech.
 - I really enjoyed building the robot. It taught me alot about things i otherwise would have never knew. It required lots of research with circuitry, AI, and physics. I actually had to apply somethings i learned in lectures to my movement handling. It definitely required me to step outside of my comfort zone but it was all very worth it. It also gave me a reason to finally buy a Raspberry Pi(the heart of the whole project) and to study how it works.
 # Finale Presentation
+
+https://canva.link/9ayxdw6bbsx5ut7
