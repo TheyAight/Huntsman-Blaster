@@ -2,7 +2,8 @@
 
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a0b53a99-bc3f-4214-833a-8bb1bbdea3f0" />
 
-Video Link:
+
+Video Link: https://youtu.be/vG-90r8YBCc
 
 # Team Name
 SubPar
